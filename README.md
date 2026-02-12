@@ -30,7 +30,7 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone git@git.darmist.com:open-source-projects/darmist-recorder.git
+    git clone git@github.com:habibdev1/darmist-recorder.git
     cd darmist-recorder
     ```
 2.  **Open in Browser:** Simply open the `index.html` file in your preferred web browser. No local server is required.
@@ -40,5 +40,3 @@ To run this project locally:
 Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please open an issue or submit a pull request.
 
 ## License
-
-This project is open source and available under the [MIT License](LICENSE).
